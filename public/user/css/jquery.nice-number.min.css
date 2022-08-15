@@ -1,0 +1,33 @@
+.nice-number {
+    display: inline-flex;
+    justify-content: stretch;
+    float: left;
+}
+
+.nice-number input {
+	vertical-align: middle;
+	border: none;
+	-moz-appearance: textfield;
+	box-sizing: content-box;
+	margin: 0;
+	text-align: center;
+	padding: 3px;
+	width: 35px !important;
+	background: #0B2C3D;
+	color: #fff;
+	font-weight: 600;
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
+
+button {
+	display: flex;
+	padding: 3px 13px;
+	outline: none !important;
+	background: #093B55;
+	font-size: 16px;
+	border: none;
+	font-weight: 500;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+}

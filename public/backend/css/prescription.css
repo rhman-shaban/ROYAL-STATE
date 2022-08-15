@@ -1,0 +1,97 @@
+.prescription .top .logo img {
+    height: 20px !important;
+}
+
+.prescription .top .right {
+    float: right;
+}
+
+.prescription .top .right h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.prescription .patient-info {
+    border-top: 2px solid #afafaf;
+    border-bottom: 2px solid #afafaf;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.prescription .main-section {
+    padding-top: 30px;
+    border-bottom: 2px solid #afafaf;
+}
+
+.prescription .main-section .problem {
+    margin-bottom: 40px;
+}
+
+.prescription .main-section .problem h2 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.prescription .main-section .test h2 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.prescription .main-section .medicine {
+    border-left: 2px solid #afafaf;
+    padding-left: 30px;
+    margin-left: 30px;
+    min-height: 200px;
+}
+
+.prescription .main-section .medicine .rx {
+    font-size: 40px;
+}
+
+.prescription .main-section .medicine .rx span {
+    font-size: 30px;
+}
+
+.prescription .main-section .medicine .list {
+    padding-left: 20px;
+}
+
+.prescription .main-section .medicine .list ul {
+    width: 100%;
+}
+
+.prescription .main-section .medicine .list li {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.prescription .main-section .medicine .list .full {
+    overflow: hidden;
+}
+
+.prescription .main-section .medicine .list .l {
+    float: left;
+}
+
+.prescription .main-section .medicine .list .r {
+    float: right;
+}
+
+.prescription .main-section .advice {
+    margin-top: 40px;
+}
+
+.prescription .main-section .advice h2 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.prescription .footer {
+    margin-top: 80px;
+}
+
+.prescription .footer h2 {
+    font-size: 18px;
+    font-weight: 700;
+}

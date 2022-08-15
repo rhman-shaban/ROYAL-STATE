@@ -1,0 +1,221 @@
+@media print {
+    .common_btn,
+    .wsus__menu_icon {
+        display: none!important;
+    }
+}
+
+.loading-icon {
+    margin-top: 3px;
+    margin-right: 5px;
+}
+
+.custom-opacity {
+    opacity: 0.8
+}
+
+.property-period {
+    font-size: 14px;
+}
+
+.wsus__maps iframe {
+    width: 100%;
+}
+
+.home_page_search_box input {
+    border: 1px solid #e6e1e1;
+    padding: 14px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0B2C3D;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #0B2C3D !important;
+    line-height: 0px !important;
+    font-size: 16px !important;
+    text-transform: capitalize !important;
+    font-weight: 400 !important;
+}
+
+.custom-r-border {
+    border-right: 1px solid #ddd !important;
+}
+
+.wsus__property_sidebar .accordion-flush .accordion-item:first-of-type .accordion-button {
+    font-size: 16px;
+    background: none;
+    color: #0B2C3D;
+    border: 1px solid #e6e1e1;
+    padding: 15px;
+    margin: 0;
+    font-weight: 400 !important;
+}
+
+.popular_address {
+    color: #000;
+    margin-bottom: 5px;
+}
+
+.custom-badge {
+    color: #fff;
+    background: #198754;
+    padding: 2px 5px;
+    font-size: 14px;
+    border-radius: 10%;
+}
+
+.custom-error-badge {
+    color: #fff;
+    background: rgb(233, 77, 38);
+    padding: 2px 5px;
+    font-size: 14px;
+    border-radius: 10%;
+}
+
+.custom-create-property {
+    float: right;
+}
+
+.wishlist-image {
+    height: 100px;
+    width: 150px;
+    object-fit: cover !important;
+}
+
+.custom_wishlist h5 a {
+    color: #0B2C3D;
+}
+
+.custom-create-property {
+    float: right;
+}
+
+.custom_add_row_btn input {
+    margin-top: 28px !important;
+}
+
+.danger_btn_2 {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    background: #f54935;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.custom-select-box {
+    width: 100%;
+    border: 1px solid #e6e1e1;
+    padding: 10px 20px;
+    resize: none;
+}
+
+.property-slider-img {
+    width: 470px;
+    height: 220px;
+    object-fit: cover !important;
+}
+
+.property-exist-img {
+    width: 423px;
+    height: 220px;
+    object-fit: cover !important;
+}
+
+.custom-delete-icon {
+    margin-left: 15px !important;
+}
+
+.wsus__message_text a {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #0B2C3D;
+}
+
+.user-public-banner {
+    height: 200px;
+    width: 423px;
+    object-fit: cover !important;
+}
+
+.wsus__dashboard_main_content.custom-mt {
+    margin-top: -20px !important;
+}
+
+.custom-invoice-img {
+    height: 20px;
+}
+
+.wsus__property_mape_single iframe {
+    width: 100%;
+}
+
+.wsus__single_agents ul.remove_padding {
+    text-align: center;
+    background: #1F4E66;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 30px !important;
+}
+
+a.agent_name {
+    color: #0B2C3D;
+}
+
+.custom-box {
+    padding: 0px 100px;
+}
+
+.custom_icon {
+    margin-top: 2px;
+}
+
+.box-details {
+    width: 206px;
+    margin: 0 auto;
+}
+
+.box-text {
+    float: left;
+    margin-left: 15px;
+}
+
+.box-text i {
+    display: block;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.box-text span {
+    color: #fff;
+    font-size: 14px;
+}
+
+.razorpay-payment-button {
+    font-size: 16px !important;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 500 !important;
+    background: #27AE60;
+    color: #fff !important;
+    padding: 10px 20px;
+    border-radius: 3px;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+#razorpay_payment .wsus__bank_details input {
+    width: auto !important;
+}

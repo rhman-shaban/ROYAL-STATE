@@ -1,0 +1,35 @@
+
+#emptbl {
+	width: 100%;
+}
+
+#emptbl th {
+	color: #0B2C3D;
+	font-weight: 400;
+	font-family: 'Poppins', sans-ser;
+	margin-bottom: 5px;
+	font-size: 15px;
+	text-transform: capitalize;
+	width: 550px;
+}
+
+#emptbl input{
+    margin-top: 5px;
+}
+
+.table_button tr{
+    display: flex;
+}
+
+.table_button tr td{
+    margin-right: 20px;
+}
+
+#emptbl tr {
+	display: flex;
+}
+
+#emptbl td {
+	width: 525px;
+	margin-right: 20px;
+}

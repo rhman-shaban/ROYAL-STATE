@@ -1,0 +1,1169 @@
+*{
+    direction: rtl;
+    text-align: right;
+}
+
+/*======================
+  HOME PAGE START
+========================*/
+.wsus__header_icon {
+	float: left;
+}
+
+.wsus__header_icon li {
+	margin-left: 0;
+	margin-right: 20px;
+}
+
+.wsus__header_text a i {
+	margin-right: 0;
+	margin-left: 10px;
+	transform: rotateY(180deg);
+}
+
+.wsus__header_text a {
+	margin-right: 0;
+	margin-left: 30px;
+}
+
+.wsus__main_menu .navbar-brand {
+	margin-right: 0;
+}
+
+.menu_icon > li > a {
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+	right: auto;
+	left: 25px;
+}
+
+.wsus__single_counter .wsus__counter_img {
+	float: right;
+    margin-right: 20px;
+}
+
+.wsus__single_counter .wsus__counter_text {
+	float: left;
+	width: 55%;
+}
+
+.wsus__single_counter .wsus__counter_text span {
+	text-align: center;
+}
+
+.wsus__single_counter .wsus__counter_text p {
+	text-align: center;
+}
+
+.wsus__single_counter.border_none {
+	border-right: 1px solid #ddd;
+}
+
+
+.wsus__about_icon {
+	float: right;
+}
+
+.wsus__about_single {
+	border-right: 5px solid #27AE60;
+	border-left: 0;
+}
+
+.wsus__about_details {
+	padding-left: 0;
+	padding-right: 30px;
+	border-left: 0;
+	border-right: 1px solid #ddd;
+	float: right;
+}
+
+.wsus__medium_heading {
+	text-align: center;
+}
+
+.wsus__small_details {
+	text-align: center;
+}
+
+.wsus__center_text h4 {
+	text-align: center;
+}
+
+.wsus__center_text p {
+	text-align: center;
+}
+
+.wsus__agent_button .common_btn_2 i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.wsus__single_service h5 {
+	text-align: center;
+}
+
+.wsus__single_service p {
+	text-align: center;
+}
+
+.wsus__blog_img p span {
+	margin-right: 0;
+	margin-left: 15px;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.wsus__blog_img p {
+	padding-right: 0;
+	padding-left: 20px;
+	left: auto;
+	right: 15px;
+}
+
+#wsus__apps .ml_to_mr {
+	margin-left: 0;
+	margin-right: 8.3333333333%;
+}
+
+.wsus_apps_text ul li a i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.wsus__social_link {
+	display: flex;
+}
+
+.wsus__social_link li {
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.wsus__footer_address i {
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.wsus__blog_footer img {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.wsus__blog_footer a i {
+	transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+}
+
+.wsus_copywrite p {
+	text-align: center;
+}
+
+.wsus__scroll_btn {
+	left: 25px;
+	right: auto;
+}
+
+.wsus__single_clients p i {
+	left: auto;
+	right: 5px;
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
+	-o-transform: rotateY(180deg);
+}
+
+.wsus__single_clients p {
+	padding: 20px;
+	padding-left: 20px;
+	padding-right: 50px;
+}
+
+.wsus__single_clients img {
+    float: right;
+	margin-right: 50px;
+	margin-left: 20px;
+}
+
+.slick-list {
+	direction: ltr;
+}
+
+.wsus__single_property .mark {
+	left: auto;
+	right: 0;
+}
+
+.wsus__single_property .urgent {
+	right: auto;
+	left: 0;
+}
+
+.wsus_apps_text ul li {
+	margin-right: 0;
+	margin-left: 20px;
+}
+/*======================
+  HOME PAGE END
+========================*/
+
+/*======================
+  404 PAGE START
+========================*/
+#wsus__breadcrumb h4 {
+	text-align: center;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+	float: right;
+	padding-right: .5rem;
+	padding-left: .5rem;
+}
+
+.breadcrumb-item + .breadcrumb-item {
+	padding-left: 0;
+}
+
+.wsus__error_text h3 {
+	text-align: center;
+}
+
+.wsus__error_text p {
+	text-align: center;
+}
+
+.wsus__error_text .rtl_mod {
+	width: 140px;
+	margin: 0 auto;
+	display: flex;
+}
+/*======================
+  404 PAGE END
+========================*/
+
+
+/*======================
+  ABOUT PAGE START
+========================*/
+#wsus__about .ml_to_mr {
+	margin-left: 0;
+	margin-right: 8.3333333333%;
+}
+
+.wsus__about_text_box span {
+	border-right: 0;
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+	border-left: 1px solid #eee;
+}
+
+.wsus__single_awards span {
+	text-align: center;
+}
+
+.wsus__single_awards p {
+	text-align: center;
+}
+
+.wsus__blog_text span {
+	margin-left: 0px;
+	margin-right: 20px;
+}
+
+.wsus__single_team span {
+	text-align: center;
+}
+
+.wsus__single_team p {
+	text-align: center;
+}
+
+.wsus__single_team ul li a i {
+	text-align: center;
+}
+
+.wsus__single_clients p {
+	text-align: right;
+}
+/*======================
+  ABOUT PAGE END
+========================*/
+
+
+/*======================
+ADD PROPERTY PAGE START
+========================*/
+#emptbl td {
+	margin-right: 0;
+	margin-left: 25px;
+}
+
+.wsus__input_property .wsus__pro_check .form-check input {
+	float: right;
+}
+
+.wsus__input_property .wsus__pro_check .form-check-label {
+	margin-right: 25px;
+	margin-top: -5px;
+}
+
+.wsus__footer_text button {
+	right: auto;
+	left: 0;
+}
+
+.wsus__footer_text input {
+	padding: 15px 15px 15px 120px;
+}
+/*======================
+ADD PROPERTY PAGE END
+========================*/
+
+
+/*======================
+    AGENCY PAGE START
+========================*/
+.wsus__single_agency_text p a {
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+#wsus_pagination .page-link i {
+	transform: rotate(180deg);
+}
+/*======================
+    AGENCY PAGE END
+========================*/
+
+
+/*======================
+BLOG DETAILS PAGE START
+========================*/
+.wsus__blog_bar input {
+	text-align: left;
+}
+
+.wsus__trend_text span i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.wsus__blog_small_text {
+	overflow: hidden;
+}
+
+.wsus__blog_small_text span {
+	margin-right: 0px;
+	float: right;
+    margin-left: 30px;
+}
+
+.wsus__blog_small_text span i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.wsus__blog_quot p i {
+	left: auto;
+	transform: translateY(-50%)rotateY(180deg);
+	right: 30px;
+	-webkit-transform: translateY(-50%)rotateY(180deg);
+	-moz-transform: translateY(-50%)rotateY(180deg);
+	-ms-transform: translateY(-50%)rotateY(180deg);
+	-o-transform: translateY(-50%)rotateY(180deg);
+}
+
+.wsus__blog_quot {
+	padding: 30px 100px 30px 30px;
+}
+
+.wsus__blog_share_area .wsus__share_item {
+	float: right;
+}
+
+.wsus__share_item ul li {
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.wsus__share_item .wsus__share_icon li {
+	margin-right: 20px;
+	margin-left: 0;
+}
+
+.wsus__text_right h6 {
+	text-align: left;
+}
+
+.wsus__bloger_details h3 {
+	text-align: center;
+}
+
+.wsus__bloger_details p {
+	text-align: center;
+}
+
+.wsus__comm_img {
+	float: right;
+}
+
+.wsus__comm_text {
+	float: right;
+}
+
+.wsus__comm_text h5 span i {
+	transform: rotate(180deg);
+	margin-right: 0;
+	margin-left: 5px;
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+}
+
+.wsus__rite_comment button i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+/*======================
+BLOG DETAILS PAGE END
+========================*/
+
+
+/*======================
+  CART VIEW PAGE START
+========================*/
+.wsus__cart_list table tbody tr td {
+	border-right: 1px solid #ddd !important;
+}
+/*======================
+  CART VIEW PAGE END
+========================*/
+
+
+/*======================
+  CHECK OUT PAGE START
+========================*/
+#wsus__checkout h4 i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+#wsus__checkout ul li button {
+	text-align: center;
+}
+
+.wsus__billing_info .wsus__secutity img {
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.wsus__billing_info .wsus__secutity i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.wsus__billing_info .form-check label {
+	margin: 0;
+	margin-right: 35px;
+}
+
+.wsus__billing_info .form-check input {
+	margin-right: 0;
+}
+/*======================
+  CHECK OUT PAGE END
+========================*/
+
+
+/*======================
+  COMPARE PAGE START
+========================*/
+.wsus__compare_text i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+/*======================
+  COMPARE PAGE END
+========================*/
+
+
+/*======================
+  CONTACT PAGE START
+========================*/
+.wsus__contact_text h4 {
+	text-align: center;
+}
+
+.wsus__contact_text a {
+	text-align: center;
+}
+/*======================
+  CONTACT PAGE END
+========================*/
+
+
+/*======================
+    FAQ PAGE START
+========================*/
+#wsus__accordian .accordion-button::after {
+	position: absolute;
+	left: 20px;
+}
+
+.wsus__faq_text h3 {
+	text-align: center;
+}
+
+.wsus__faq_text .wsus_call_btn {
+	text-align: center;
+}
+
+#wsus__faqs_counter span {
+	text-align: center;
+}
+
+#wsus__faqs_counter p {
+	text-align: center;
+}
+/*======================
+    FAQ PAGE END
+========================*/
+
+
+/*======================
+    CONTACT PAGE START
+========================*/
+.input-group > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+	margin-left: -1px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-right-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+
+.wsus__login_form span {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.wsus__login_form .eye {
+	left: 15px;
+	right: auto;
+}
+
+.wsus__check_area label {
+	margin-left: 0;
+	margin-right: 30px;
+}
+
+.wsus__login_link li a span {
+	left: auto;
+	right: 0;
+}
+
+.wsus__login_link li a {
+	padding: 10px 35px 10px 20px;
+}
+
+#wsus__logon .ml_to_mr {
+	margin-left: 0;
+	margin-right: 8.3333333333%;
+}
+/*======================
+    CONTACT PAGE END
+========================*/
+
+
+/*======================
+    PRICING PAGE START
+========================*/
+.wsus__single_pricing .wsus__pricing_tk {
+	text-align: center;
+}
+
+.wsus__single_pricing .wsus__price_duration {
+	text-align: center;
+}
+
+.wsus__single_pricing ul li {
+	padding-left: 0;
+	text-align: right;
+	padding-right: 35px;
+}
+
+.wsus__single_pricing ul li::after {
+	left: auto;
+	right: 0;
+}
+
+.wsus__single_pricing ul li.wsus__add_before::before {
+	left: auto;
+	right: 0;
+}
+/*======================
+    PRICING PAGE END
+========================*/
+
+
+/*======================
+    PRIVACY PAGE START
+========================*/
+.wsus__privacy_text p span {
+	left: auto;
+	right: 0;
+}
+
+.wsus__privacy_text p {
+	padding-left: 0;
+	padding-right: 50px;
+}
+/*======================
+    PRIVACY PAGE END
+========================*/
+
+
+/*======================
+PROPERTY DETAILS PAGE START
+========================*/
+.wsus__single_details ul li {
+	margin-right: 0;
+	margin-left: 30px;
+}
+
+.wsus__pro_track_area ul li {
+	margin-right: 0px !important;
+	margin-left: 10px;
+}
+
+.wsus__single_details p i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.wsus__agent_text a i {
+	transform: rotateY(180deg);
+}
+
+.wsus__total_rev h4 {
+	text-align: center;
+}
+
+.wsus__total_rev p {
+	text-align: center;
+}
+
+.wsus__select_rating .wsus__single_review {
+	text-align: right;
+}
+/*======================
+PROPERTY DETAILS PAGE END
+========================*/
+
+
+/*======================
+PROPERTY LIST VIEW PAGE START
+========================*/
+.wsus__property_topbar_left ul li a {
+	border-right: 1px solid #ddd;
+	border-left: 0;
+}
+
+.wsus__property_sidebar .accordion-button::after {
+	position: absolute;
+	left: 10px;
+}
+/*======================
+PROPERTY LIST VIEW PAGE END
+========================*/
+
+
+/*======================
+WISHLIST LIST VIEW START
+========================*/
+.wsus__cart_item_heading h5 {
+	float: right;
+	text-align: right;
+	direction: rtl;
+}
+/*======================
+WISHLIST LIST VIEW END
+========================*/
+
+
+/*======================
+   DASHBOARD PAGE START
+========================*/
+.wsus__dashboard_side_bar {
+	left: auto;
+	right: 0;
+}
+
+.wsus__agent_img h5 {
+	text-align: center;
+}
+
+#wsus__dashboard .ms-auto {
+	margin-left: 0 !important;
+	margin-right: auto;
+}
+
+.wsus__manage_single p {
+    border-left: 0;
+	padding-left: 0px;
+	margin-left: 0px;
+	padding-right: 30px;
+	margin-right: 30px;
+	border-right: 1px solid #ddd;
+}
+
+.wsus__deshboard_menu li a {
+	padding-left: 0;
+	padding-right: 19%;
+}
+
+.wsus__deshboard_menu li a i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.wsus__profile_single h5 {
+	text-align: center;
+}
+
+.wsus__profile_single .rtl_title {
+	text-align: center;
+}
+
+.wsus__profile_single .wsus__address a i, 
+.wsus__profile_single .wsus__address p i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.wsus__my_property table .title p span {
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.RTL_text_align h5,
+.RTL_text_align h6,
+.RTL_text_align p{
+    text-align: left;
+}
+/*======================
+   DASHBOARD PAGE END
+========================*/
+
+.wsus__right_sin_det .wsus__agent_img {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.wsus__menu_icon {
+	right: 10px;
+	left: auto;
+}
+
+.wsus__close_icon {
+	right: auto;
+	left: 0;
+
+}
+
+/************ RESPONSIVE CSS STARTED *************/
+@media (min-width: 1400px){
+
+	#wsus__dashboard #emptbl td {
+		margin-right: 0;
+		margin-left: 23px;
+	}
+
+	#wsus__about .wsus__medium_heading {
+		text-align: right;
+	}
+}
+
+@media (min-width: 1200px) and (max-width: 1399px){
+
+	#wsus__dashboard #emptbl td {
+		margin-right: 0;
+		margin-left: 23px;
+	}
+
+	#wsus__about .ml_to_mr {
+		margin-right: 0;
+	}
+
+	#wsus__about .wsus__medium_heading {
+		text-align: right;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	#wsus__logon .ml_to_mr {
+		margin-right: 0;
+	}
+
+	#wsus__about .ml_to_mr {
+		margin-right: 0;
+	}
+
+	.wsus__dashboard_side_bar {
+		left: auto;
+		right: 0;
+		margin-left: auto;
+		margin-right: -100%;
+	}
+
+	.wsus__dashboard_side_bar .wsus__menu_icon {
+		right: auto;
+		left: -42px;
+	}
+
+	.wsus__dashboard_side_bar.\.menu_show {
+		width: 30%;
+		margin-left: auto;
+		margin-right: 0;
+	}
+
+	.wsus__dashboard_side_bar .wsus__close_icon {
+		right: auto;
+	}
+
+	#wsus__dashboard #emptbl td {
+		margin-right: 0;
+		margin-left: 23px;
+	}
+
+	#wsus__about .wsus__medium_heading {
+		text-align: right;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+	.navbar-nav li {
+		text-align: center;
+	}
+
+	.wsus__single_counter.border_none {
+		border-right: 0;
+	}
+
+	#wsus__about .wsus__medium_heading {
+		text-align: right;
+	}
+
+	#wsus__logon .ml_to_mr {
+		margin-right: 0;
+	}
+
+	.wsus__dashboard_side_bar {
+		left: auto;
+		right: 0;
+		margin-left: auto;
+		margin-right: -100%;
+	}
+
+	.wsus__dashboard_side_bar .wsus__menu_icon {
+		right: auto;
+		left: -42px;
+	}
+
+	.wsus__dashboard_side_bar.\.menu_show {
+		width: 40%;
+		margin-left: auto;
+		margin-right: 0;
+	}
+
+	#wsus__dashboard #emptbl td {
+		width: 431px;
+		margin-right: 0;
+		margin-left: 23px;
+	}
+
+	.wsus__filter_icon {
+		right: auto;
+		left: 0;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+
+	.wsus__header_icon li {
+		margin-right: 5px;
+	}
+
+	.wsus__header_text a {
+		margin-left: 0px;
+	}
+
+	.navbar-nav li {
+		text-align: center;
+	}
+
+	.wsus__single_counter.border_none {
+		border-right: 0;
+	}
+
+	#wsus__about .wsus__medium_heading {
+		text-align: right;
+	}
+
+	.wsus__center_text p span {
+		text-align: center;
+	}
+
+	.wsus__single_clients p {
+		padding-right: 20px;
+	}
+
+	.wsus__single_clients img {
+		margin-right: 0;
+	}
+
+	.wsus__footer_text input {
+		padding: 15px 15px 10px 120px;
+	}
+	.wsus_apps_text ul li {
+		margin-right: 0;
+		margin-left: 10px;
+	}
+
+	#wsus__about .ml_to_mr {
+		margin-right: 0;
+	}
+
+	.wsus__blog_small_text span {
+		margin-left: 15px;
+	}
+
+	.wsus__blog_quot {
+		padding: 10px;
+	}
+
+	.wsus__blog_quot p i {
+		right: 10px;
+		top: 25px;
+	}
+
+	.wsus__text_right h6 {
+		text-align: right;
+	}
+
+	.wsus__share_item .wsus__share_icon li {
+		margin-right: 0;
+		margin-left: 20px;
+	}
+
+	.wsus__cart_item_heading h5 {
+		text-align: center;
+	}
+
+	.wsus__compare_img p {
+		text-align: center;
+	}
+
+	#wsus__faqs .accordion-flush .accordion-button {
+		text-align: right;
+	}
+
+	.wsus__single_details ul li {
+		margin-left: 16px;
+	}
+
+	.wsus__pro_track_area ul li a i {
+		margin-right: 0;
+		margin-left: 5px;
+	}
+
+	.wsus__pro_track_area ul li a {
+		font-size: 12px;
+	}
+
+	.wsus__single_details .common_btn_2 {
+		float: right;
+	}
+
+	.wsus__right_sin_det .wsus__agent_img img {
+		width: 70px;
+		height: 70px;
+	}
+
+	.wsus__dashboard_side_bar {
+		left: auto;
+		right: 0;
+		margin-left: auto;
+		margin-right: -100%;
+	}
+
+	.wsus__dashboard_side_bar .wsus__menu_icon {
+		right: auto;
+		left: -42px;
+	}
+
+	.wsus__dashboard_side_bar.\.menu_show {
+		width: 60%;
+		margin-left: auto;
+		margin-right: 0;
+	}
+
+	.wsus__rating_left {
+		float: right;
+	}
+
+	#wsus__dashboard #emptbl td {
+		margin-right: 0;
+		margin-left: 23px;
+	}
+
+	#wsus__logon .ml_to_mr {
+		margin-right: 0;
+	}
+
+	.wsus__filter_icon {
+		right: auto;
+		left: 0;
+	}
+}
+
+@media (max-width: 575px){
+
+	.wsus__header_icon li {
+		margin-right: 5px;
+	}
+
+	.wsus__header_text a {
+		margin-left: 0px;
+	}
+
+	.navbar-nav li {
+		text-align: center;
+	}
+
+	#wsus__about .wsus__medium_heading {
+		text-align: right;
+	}
+
+	.wsus__center_text p span {
+		text-align: center;
+	}
+
+	.wsus__single_clients p {
+		padding-right: 20px;
+	}
+
+	.wsus__single_clients img {
+		margin-right: 0;
+	}
+
+	.wsus__footer_text input {
+		padding: 15px 15px 10px 120px;
+	}
+	.wsus_apps_text ul li {
+		margin-right: 0;
+		margin-left: 10px;
+	}
+
+	#wsus__about .ml_to_mr {
+		margin-right: 0;
+	}
+
+	.wsus__blog_small_text span {
+		margin-left: 15px;
+	}
+
+	.wsus__blog_quot {
+		padding: 10px;
+	}
+
+	.wsus__blog_quot p i {
+		right: 10px;
+		top: 25px;
+	}
+
+	.wsus__text_right h6 {
+		text-align: right;
+	}
+
+	.wsus__share_item .wsus__share_icon li {
+		margin-right: 0;
+		margin-left: 20px;
+	}
+
+	.wsus__cart_item_heading h5 {
+		text-align: center;
+	}
+
+	.wsus__compare_img p {
+		text-align: center;
+	}
+
+	#wsus__faqs .accordion-flush .accordion-button {
+		text-align: right;
+	}
+
+	.wsus__single_details ul li {
+		margin-left: 16px;
+	}
+
+	.wsus__pro_track_area ul li a i {
+		margin-right: 0;
+		margin-left: 5px;
+	}
+
+	.wsus__pro_track_area ul li a {
+		font-size: 12px;
+	}
+
+	.wsus__single_details .common_btn_2 {
+		float: right;
+	}
+
+	.wsus__right_sin_det .wsus__agent_img img {
+		width: 70px;
+		height: 70px;
+	}
+
+	.wsus__dashboard_side_bar {
+		left: auto;
+		right: 0;
+		margin-left: auto;
+		margin-right: -100%;
+	}
+
+	.wsus__dashboard_side_bar .wsus__menu_icon {
+		right: auto;
+		left: -42px;
+	}
+
+	.wsus__dashboard_side_bar.\.menu_show {
+		width: 85%;
+		margin-left: auto;
+		margin-right: 0;
+	}
+
+	#wsus__logon .ml_to_mr {
+		margin-right: 0;
+	}
+
+	.wsus__filter_icon {
+		right: auto;
+		left: 0;
+	}
+}
