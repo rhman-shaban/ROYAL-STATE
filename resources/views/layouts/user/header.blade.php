@@ -314,7 +314,8 @@
             <div class="row">
                 <div class="col-7 col-xl-6 col-md-8">
                     <div class="wsus__header_text">
-                        <a href="mailto:{{ $topbar_contact->topbar_phone }}"><i class="fal fa-envelope"></i>{{ $topbar_contact->topbar_email }}</a>
+                    /* <a href="mailto:{{ $topbar_contact->topbar_phone }}"><i class="fal fa-envelope"></i>{{ $topbar_contact->topbar_email }}</a> */
+                        <a href="mailto:{{ $topbar_contact->topbar_phone }}"><i class=""></i>{{ $topbar_contact->topbar_email }}</a>
                         <a class="d-none d-md-block" href="callto:{{ $topbar_contact->topbar_phone }}"><i class="fal fa-phone-alt"></i>{{ $topbar_contact->topbar_phone }}</a>
                     </div>
                 </div>

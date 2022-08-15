@@ -158,9 +158,9 @@ window.addEventListener("load",function(){window.wpcc.init({"border":"{{ $modalC
                             </ul>
 
                             <div class="wsus__footer_address">
-                                <p><i class="fal fa-map-marker-alt"></i> {!! nl2br(e($footer_contact->footer_address)) !!}</p>
+                                <!-- <p><i class="fal fa-map-marker-alt"></i> {!! nl2br(e($footer_contact->footer_address)) !!}</p> -->
                                 <a href="javascript:;"><i class="fal fa-phone-alt"></i>{!! nl2br(e($footer_contact->footer_phone)) !!}</a>
-                                <p><i class="fal fa-envelope"></i>{!! nl2br(e($footer_contact->footer_email)) !!}</p>
+                                <!-- <p><i class="fal fa-envelope"></i>{!! nl2br(e($footer_contact->footer_email)) !!}</p> -->
                             </div>
                         </div>
                     </div>
